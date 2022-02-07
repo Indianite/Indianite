@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Vidhu Avikal, I am from India.
+## I am a developer, I am from India.
 
 
 
